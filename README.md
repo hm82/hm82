@@ -7,6 +7,5 @@ I’m a Consulting leader at [Qentelli](https://qentelli.com/), Client Executive
     🛠 Technologies: Expert in [Selenium](https://github.com/SeleniumHQ/selenium), [Pytest](https://github.com/pytest-dev/pytest), [Node.js](https://github.com/topics/node), and [React](https://github.com/search?q=Reac).
     💬 Ask me about Technology Strategy, Digital Transformation, and modern Product Management best practices
     ⚡ Fun fact: Geek at heart, love building delightful products, and exploring uncharted paths!
-    😄 Pronouns: He/ His
     👯 Let's Collaborate: Open to speaking engagements and thought leadership discussions on DevOps, QA, and digital transformation.
     📫 How to reach me: [e-mail](mailto: hasan.mujtaba@gmail.com), [Twitter]()

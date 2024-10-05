@@ -1,6 +1,4 @@
-Hi, I'm Hasan Mujtaba 👋
-
-I’m a Consulting leader at [Qentelli](https://qentelli.com/), Client Executive, Program Manager, Developer Advocate, and Digital Transformation Nerd, passionate about guiding organizations go to market with innovative Digital capabilities
+I’m a Consulting leader at [Qentelli](https://qentelli.com/) serving as a Client Executive, Program Manager, and Developer Advocate. I empower organizations to accelerate their go-to-market strategies with innovative digital solutions and transformative capabilities, including AI and Automation
 
     🌟 What I Do: Empower teams with robust automation solutions, enabling faster product delivery and higher quality.
     🚀 Advocate for Developers: Share best practices on CI/CD pipelines, test automation, and cloud-native technologies.
